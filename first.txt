@@ -6,3 +6,4 @@ Added line before stash
 Stash1
 Stash2
 Stash3
+Add from GitHub
