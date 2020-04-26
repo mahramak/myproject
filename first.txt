@@ -7,3 +7,4 @@ Stash1
 Stash2
 Stash3
 Add from GitHub
+Add from master - git-intro
