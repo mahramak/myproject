@@ -3,3 +3,6 @@ I love to run every morning
 New training everyday
 Hope to learn from  myworkspace1
 Added line before stash
+Stash1
+Stash2
+Stash3
